@@ -1,0 +1,5 @@
+PretyConsole.egg-info
+.pytest_cache
+tests/__pycache__
+PrettyConsole/__pycache__
+dist
